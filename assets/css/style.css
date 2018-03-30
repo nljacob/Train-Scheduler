@@ -1,0 +1,43 @@
+* {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+    color: rgb(47, 100, 133) !important;
+}
+
+h3 {
+    color: rgb(47, 100, 133) !important;
+    font-weight: 700!important;
+    text-align: center;
+    font-size: 150% !important;
+
+}
+
+th {
+    color: rgb(184, 50, 50); 
+    font-weight: bold;
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+img {
+    width: 60%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.jumbotron {
+    border-style: solid !important;
+    border-color: black !important;
+    border: 40px !important;
+}
+
+label {
+    color: rgb(47, 100, 133) !important;
+}
